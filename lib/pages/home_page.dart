@@ -32,7 +32,7 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         title: const Text("W A L L"),
         backgroundColor: Colors.transparent,
-        foregroundColor: Theme.of(context).colorScheme.inversePrimary,
+        // foregroundColor: Theme.of(context).colorScheme.inversePrimary,
         centerTitle: true,
         elevation: 0,
       ),
